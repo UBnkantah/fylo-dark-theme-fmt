@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+:root{
+  --mainBackground: hsl(218, 28%, 13%);
+  --footerBackground: hsl(216, 53%, 9%);
+  --testimonialBackground: hsl(219, 30%, 18%);
+  --cyanGradient: hsl(176, 68%, 64%);
+  --blueGradient: hsl(198, 60%, 50%);
+  --lightRederror: hsl(0, 100%, 63%);
+}

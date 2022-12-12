@@ -1,0 +1,26 @@
+.access{
+    background-color: var(--mainBackground);
+}
+.div-items{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 2em;
+    max-width: 600px;
+    margin: 0 auto;
+}
+.div-items .items{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+    color: white;
+    max-width: 250px;
+}
+.div-items .items h1{
+    font-size: 20px;
+}
+.div-items .items img{
+    width: 20px;
+}
